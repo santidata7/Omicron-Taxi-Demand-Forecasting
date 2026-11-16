@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="omicron_demanda-taxis" src="https://github.com/user-attachments/assets/2c28efb9-7bc7-4b26-a302-6c6b881e1e3a" />
 # Omicron: Predicción de Demanda de Taxis
 
 ## Descripción del Proyecto
